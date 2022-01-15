@@ -60,7 +60,6 @@ function Body() {
     }));
 
     const [characterData, setCharacterData] = useState([]);
-    const [comicsData, setComicsData] = useState([]);
     const [searchCharacter, setSearchCharacter] = useState(['spider-man']);
 
     let count = 0;
