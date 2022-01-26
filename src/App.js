@@ -7,8 +7,6 @@ import Header from './components/Header';
 import Body from './components/Body';
 import Footer from './components/Footer';
 
-
-
 /*
 Your public key:
 6cedf382495d1006cfe0541128191499
