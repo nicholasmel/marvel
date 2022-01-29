@@ -8,7 +8,7 @@ function Footer() {
         <Container>
             <IconContainer>
                 <LinkedInIcon sx={{ fontSize: '40px', color: 'red' }} onClick={() => window.open('https://www.linkedin.com/in/nicholasmel/')} />
-                <GitHubIcon sx={{ fontSize: '40px', color: 'red' }} onClick={() => window.open('https://www.linkedin.com/in/nicholasmel/')} />
+                <GitHubIcon sx={{ fontSize: '40px', color: 'red' }} onClick={() => window.open('https://github.com/nicholasmel')} />
             </IconContainer>
             <img src="https://www.marvel.com/static/images/favicon/android-chrome-icon-194.png" alt="" />
         </Container>
